@@ -1,0 +1,14 @@
+by writing few lines of python code with using the openpyxl python package we are able to
+automate 1000 of spreadsheets in a second and also able to apply the graph
+
+steps we need to follow->
+1)we need to install the openpyxl package ;
+  i)type "pip install openpyxl" on the pycharm(ide) terminal
+2)And then add the excel sheets into the 'excelworlbook'(empty dir) or add excel workbook
+  to the project directory
+3)then find the updated thing you need to update on the excel sheets and  modify the loop
+  along with the operation which u need to perform on to the sheets
+4)Now u can automate the process of excel spreadsheets and within a second u can do the update along with the charts (graph) which requires days or
+  a week to do for 1000 or more sheets ..!
+
+#Happy coding stars :)...!
